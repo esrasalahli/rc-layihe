@@ -1,0 +1,30 @@
+.favContainer {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.favContainerMap {
+    display: flex;
+    gap: 20px;
+}
+
+.favContainer h3 {
+    margin: 10px 32%;
+}
+
+.favContainer img {
+    width: 300px;
+}
+
+.favSlider {
+    width: fit-content;
+    position: relative;
+    left: 35%;
+    translate: (-50%, -50%);
+}
+
+p {
+    font-size: 50px;
+    text-align: center;
+}
